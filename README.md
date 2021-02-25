@@ -10,3 +10,4 @@
 5.)Creating Scope in Databricks : https://www.youtube.com/watch?v=5FX4vMvduEg
 6.) pyspark - How to convert a table into a Spark Dataframe : https://stackoverflow.com/questions/39191194/how-to-convert-a-table-into-a-spark-dataframe
 7.) sql - SparkSQL - Difference between two time stamps in minutes: https://stackoverflow.com/questions/60386256/sparksql-difference-between-two-time-stamps-in-minutes#60386453
+[I'm an inline-style link](https://www.google.com)
